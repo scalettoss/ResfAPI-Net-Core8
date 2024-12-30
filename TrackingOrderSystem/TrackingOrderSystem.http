@@ -1,0 +1,6 @@
+@TrackingOrderSystem_HostAddress = http://localhost:5116
+
+GET {{TrackingOrderSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

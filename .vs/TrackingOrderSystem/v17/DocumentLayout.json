@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\data\\repositories\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\data\\repositories\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\data\\repositories\\interface\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\data\\repositories\\interface\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\data\\repositories\\customerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\data\\repositories\\customerrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\responses\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\responses\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\middleware\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\middleware\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\exceptios\\exceptionhttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\exceptios\\exceptionhttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\responses\\successresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\responses\\successresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\responses\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\responses\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|d:\\studycode\\mynet\\trackingordersystem\\trackingordersystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B3B84-CBC3-4E7E-923F-E6C807F805D6}|TrackingOrderSystem\\TrackingOrderSystem.csproj|solutionrelative:trackingordersystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepositories.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Data\\Repositories\\Interface\\IProductRepositories.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Data\\Repositories\\Interface\\IProductRepositories.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Data\\Repositories\\Interface\\IProductRepositories.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Data\\Repositories\\Interface\\IProductRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:17:32.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Data\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Data\\Entities\\Customer.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Data\\Entities\\Customer.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Data\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:39:38.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Services\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Services\\OrderItemService.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Services\\OrderItemService.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Services\\OrderItemService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwGgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:31:14.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Services\\CustomerService.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:27:07.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionHttp.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Exceptios\\ExceptionHttp.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Exceptios\\ExceptionHttp.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Exceptios\\ExceptionHttp.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Exceptios\\ExceptionHttp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:23:34.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwE0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:20:06.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Services\\ProductService.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Services\\ProductService.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Services\\ProductService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:18:11.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepositories.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Data\\Repositories\\ProductRepositories.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Data\\Repositories\\ProductRepositories.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Data\\Repositories\\ProductRepositories.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Data\\Repositories\\ProductRepositories.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:17:37.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Middleware\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Middleware\\ExceptionFilter.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Middleware\\ExceptionFilter.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Middleware\\ExceptionFilter.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:25:35.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepositories.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Data\\Repositories\\CustomerRepositories.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Data\\Repositories\\CustomerRepositories.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Data\\Repositories\\CustomerRepositories.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Data\\Repositories\\CustomerRepositories.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:17:46.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseBase.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Responses\\ResponseBase.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Responses\\ResponseBase.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Responses\\ResponseBase.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Responses\\ResponseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:26:22.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SuccessResponse.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Responses\\SuccessResponse.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Responses\\SuccessResponse.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Responses\\SuccessResponse.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Responses\\SuccessResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:26:24.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Responses\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Responses\\ErrorResponse.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Responses\\ErrorResponse.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Responses\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:26:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Services\\OrderService.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Services\\OrderService.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Services\\OrderService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:15:59.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TrackingOrderSystem\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\StudyCode\\MyNet\\TrackingOrderSystem\\TrackingOrderSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TrackingOrderSystem\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:15:44.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
